@@ -1,0 +1,35 @@
+8
+
+dir
+0
+svn://192.168.1.99/android/TestPic/app/src/test/java/com/example
+svn://192.168.1.99/android
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+78f48efa-0556-11e3-a849-a5784f3d02d4
+
+administrator
+dir
+
+
+
+add
+
